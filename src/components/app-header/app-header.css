@@ -1,0 +1,23 @@
+.app-header {
+  align-items: flex-end;
+  justify-content: space-between;
+
+}
+
+.app-header h1 {
+  /* width: 150px;
+  height: 150px; */
+  font-size: 26px;
+}
+
+h1:hover {
+  color: #17A2B8;
+}
+
+
+
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: grey;
+}
